@@ -1,4 +1,4 @@
-# CSI_WiFi_MCQ_Quiz_Sockets 2013
+# CSI WiFi MCQ Quiz Android App 2013
 
 Earlier without this app, elimination round for qualification for CSI events used to be paper based and results would come out the next day after manually checking the papers.
 
