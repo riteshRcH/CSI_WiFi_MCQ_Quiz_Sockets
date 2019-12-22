@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/stax/events
+END
+ElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/stax/events/ElementImpl.java
+END
+EntityReferenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/stax/events/EntityReferenceImpl.java
+END
+StartDocumentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/stax/events/StartDocumentImpl.java
+END
+NamespaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/stax/events/NamespaceImpl.java
+END
+NotationDeclarationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/stax/events/NotationDeclarationImpl.java
+END
+XMLEventImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/stax/events/XMLEventImpl.java
+END
+CommentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/stax/events/CommentImpl.java
+END
+AttributeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/stax/events/AttributeImpl.java
+END
+EndDocumentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/stax/events/EndDocumentImpl.java
+END
+StartElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/stax/events/StartElementImpl.java
+END
+DTDImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/stax/events/DTDImpl.java
+END
+ProcessingInstructionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/stax/events/ProcessingInstructionImpl.java
+END
+CharactersImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/stax/events/CharactersImpl.java
+END
+EndElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/stax/events/EndElementImpl.java
+END
+EntityDeclarationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/stax/events/EntityDeclarationImpl.java
+END

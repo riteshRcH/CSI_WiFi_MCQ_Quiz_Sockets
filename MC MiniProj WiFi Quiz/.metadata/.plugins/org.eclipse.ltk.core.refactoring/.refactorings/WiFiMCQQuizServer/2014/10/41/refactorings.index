@@ -1,0 +1,28 @@
+1412479219291	Rename field 'jbtnChooseXMLQsImgsDir'
+1412479241207	Rename field 'jbtnCreateEXINImgsZip'
+1412479254086	Rename field 'jbtnChooseXMLQsFileToBrowse'
+1412479510656	Rename field 'jlblOption1StartTag'
+1412479519902	Rename field 'jlblOption2StartTag'
+1412479554363	Rename field 'jlblOption3StartTag'
+1412479593321	Rename field 'jlblOption4StartTag'
+1412479618769	Rename field 'jlblCorrectAnsStartTag'
+1412480482503	Rename field 'jpXMLQsFile'
+1412480732821	Rename method 'parseXML'
+1412480739825	Rename type 'LoadQsXML'
+1412481140452	Rename local variable 'xmlFile'
+1412481144974	Rename local variable 'jsonFileName'
+1412482118836	Rename local variable 'XMLFileCnter'
+1412482194100	Rename field 'loadQsXMLObjToBrowseQs'
+1412482209887	Rename field 'chosenXMLFile'
+1412482222351	Rename local variable 'xmlFileChooser'
+1412482569718	Rename local variable 'XMLToEXICount'
+1412483724874	Rename type 'AESEncryptBase64JSON'
+1412483739626	Rename method 'aesEncryptBase64JSON'
+1412483756950	Rename local variable 'sourceFile'
+1412483763973	Rename local variable 'destinationFile'
+1412485051249	Rename local variable 'QsEXIFileCnt'
+1412485357948	Delete element
+1412485380103	Delete element
+1412487236496	Rename type 'AESEncryptBase64JSONCodec'
+1412487250819	Copy compilation unit
+1412487275165	Copy file

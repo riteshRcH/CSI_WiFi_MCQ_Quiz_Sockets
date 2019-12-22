@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/datatype
+END
+XMLGregorianCalendarImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/datatype/XMLGregorianCalendarImpl.java
+END
+SerializedDuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/datatype/SerializedDuration.java
+END
+javax.xml.datatype.DatatypeFactory
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/datatype/javax.xml.datatype.DatatypeFactory
+END
+SerializedXMLGregorianCalendar.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/datatype/SerializedXMLGregorianCalendar.java
+END
+DatatypeFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/datatype/DatatypeFactoryImpl.java
+END
+DurationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/datatype/DurationImpl.java
+END

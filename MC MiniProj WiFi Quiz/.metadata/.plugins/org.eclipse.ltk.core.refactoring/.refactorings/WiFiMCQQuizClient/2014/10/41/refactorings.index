@@ -1,0 +1,5 @@
+1412487173199	Rename field 'receivedQsXMLFileSuccess'
+1412487311127	Delete element
+1412487356357	Rename field 'receivedQsJSONFileSuccess'
+1412487480158	Rename method 'loadAllQuestionsFromXMLFile'
+1412487569744	Rename local variable 'unzippedDirContentsQsEXIFile'

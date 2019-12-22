@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xpointer
+END
+ShortHandPointer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xpointer/ShortHandPointer.java
+END
+ElementSchemePointer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xpointer/ElementSchemePointer.java
+END
+XPointerPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xpointer/XPointerPart.java
+END
+XPointerErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xpointer/XPointerErrorHandler.java
+END
+XPointerMessageFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xpointer/XPointerMessageFormatter.java
+END
+XPointerHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xpointer/XPointerHandler.java
+END
+XPointerProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xpointer/XPointerProcessor.java
+END

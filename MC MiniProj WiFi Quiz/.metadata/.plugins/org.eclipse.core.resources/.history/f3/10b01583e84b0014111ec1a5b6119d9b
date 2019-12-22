@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/traversers
+END
+XSDAttributeTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/traversers/XSDAttributeTraverser.java
+END
+XSDAbstractTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/traversers/XSDAbstractTraverser.java
+END
+XSDComplexTypeTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/traversers/XSDComplexTypeTraverser.java
+END
+SchemaContentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/traversers/SchemaContentHandler.java
+END
+XSDHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/traversers/XSDHandler.java
+END
+XSDAttributeGroupTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/traversers/XSDAttributeGroupTraverser.java
+END
+XSDUniqueOrKeyTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/traversers/XSDUniqueOrKeyTraverser.java
+END
+XSAnnotationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/traversers/XSAnnotationInfo.java
+END
+XSDKeyrefTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/traversers/XSDKeyrefTraverser.java
+END
+XSDAbstractIDConstraintTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/traversers/XSDAbstractIDConstraintTraverser.java
+END
+XSAttributeChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/traversers/XSAttributeChecker.java
+END
+XSDAbstractParticleTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/traversers/XSDAbstractParticleTraverser.java
+END
+XSDocumentInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/traversers/XSDocumentInfo.java
+END
+XSDWildcardTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/traversers/XSDWildcardTraverser.java
+END
+XSDElementTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/traversers/XSDElementTraverser.java
+END
+XSDNotationTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/traversers/XSDNotationTraverser.java
+END
+XSDSimpleTypeTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/traversers/XSDSimpleTypeTraverser.java
+END
+XSDGroupTraverser.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/traversers/XSDGroupTraverser.java
+END
+StAXSchemaParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/traversers/StAXSchemaParser.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/ls
+END
+LSSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/ls/LSSerializer.java
+END
+LSResourceResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/ls/LSResourceResolver.java
+END
+LSParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/ls/LSParser.java
+END
+LSException.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/ls/LSException.java
+END
+LSInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/ls/LSInput.java
+END
+LSSerializerFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/ls/LSSerializerFilter.java
+END
+LSOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/ls/LSOutput.java
+END
+LSLoadEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/ls/LSLoadEvent.java
+END
+LSParserFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/ls/LSParserFilter.java
+END
+DOMImplementationLS.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/ls/DOMImplementationLS.java
+END
+LSProgressEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/ls/LSProgressEvent.java
+END

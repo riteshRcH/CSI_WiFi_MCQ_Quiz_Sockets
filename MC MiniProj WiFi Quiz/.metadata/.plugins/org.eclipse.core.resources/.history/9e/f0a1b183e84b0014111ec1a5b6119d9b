@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs
+END
+BaseSchemaDVFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/BaseSchemaDVFactory.java
+END
+MonthDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/MonthDV.java
+END
+HexBinaryDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/HexBinaryDV.java
+END
+ExtendedSchemaDVFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/ExtendedSchemaDVFactoryImpl.java
+END
+DateTimeDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/DateTimeDV.java
+END
+IDDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/IDDV.java
+END
+TypeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/TypeValidator.java
+END
+DecimalDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/DecimalDV.java
+END
+TimeDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/TimeDV.java
+END
+QNameDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/QNameDV.java
+END
+DayTimeDurationDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/DayTimeDurationDV.java
+END
+SchemaDateTimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/SchemaDateTimeException.java
+END
+XSSimpleTypeDecl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/XSSimpleTypeDecl.java
+END
+YearMonthDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/YearMonthDV.java
+END
+XSSimpleTypeDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/XSSimpleTypeDelegate.java
+END
+AnyURIDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/AnyURIDV.java
+END
+SchemaDVFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/SchemaDVFactoryImpl.java
+END
+DoubleDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/DoubleDV.java
+END
+DayDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/DayDV.java
+END
+BooleanDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/BooleanDV.java
+END
+AbstractDateTimeDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/AbstractDateTimeDV.java
+END
+MonthDayDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/MonthDayDV.java
+END
+AnyAtomicDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/AnyAtomicDV.java
+END
+DurationDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/DurationDV.java
+END
+UnionDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/UnionDV.java
+END
+IDREFDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/IDREFDV.java
+END
+Base64BinaryDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/Base64BinaryDV.java
+END
+FullDVFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/FullDVFactory.java
+END
+IntegerDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/IntegerDV.java
+END
+YearDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/YearDV.java
+END
+AnySimpleDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/AnySimpleDV.java
+END
+BaseDVFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/BaseDVFactory.java
+END
+FloatDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/FloatDV.java
+END
+StringDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/StringDV.java
+END
+PrecisionDecimalDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/PrecisionDecimalDV.java
+END
+ListDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/ListDV.java
+END
+EntityDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/EntityDV.java
+END
+YearMonthDurationDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/YearMonthDurationDV.java
+END
+DateDV.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/xs/DateDV.java
+END

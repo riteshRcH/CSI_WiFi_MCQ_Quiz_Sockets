@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/parser
+END
+XMLInputSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/parser/XMLInputSource.java
+END
+XMLDTDFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/parser/XMLDTDFilter.java
+END
+XMLPullParserConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/parser/XMLPullParserConfiguration.java
+END
+XMLDocumentFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/parser/XMLDocumentFilter.java
+END
+XMLParserConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/parser/XMLParserConfiguration.java
+END
+XMLDTDScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/parser/XMLDTDScanner.java
+END
+XMLConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/parser/XMLConfigurationException.java
+END
+XMLErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/parser/XMLErrorHandler.java
+END
+XMLDocumentScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/parser/XMLDocumentScanner.java
+END
+XMLParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/parser/XMLParseException.java
+END
+XMLDTDSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/parser/XMLDTDSource.java
+END
+XMLDTDContentModelFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/parser/XMLDTDContentModelFilter.java
+END
+XMLComponentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/parser/XMLComponentManager.java
+END
+XMLEntityResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/parser/XMLEntityResolver.java
+END
+XMLDocumentSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/parser/XMLDocumentSource.java
+END
+XMLComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/parser/XMLComponent.java
+END
+XMLDTDContentModelSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/parser/XMLDTDContentModelSource.java
+END

@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom
+END
+WMLRefreshElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLRefreshElementImpl.java
+END
+WMLFieldsetElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLFieldsetElementImpl.java
+END
+WMLPElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLPElementImpl.java
+END
+WMLWmlElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLWmlElementImpl.java
+END
+WMLAccessElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLAccessElementImpl.java
+END
+WMLDoElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLDoElementImpl.java
+END
+WMLBrElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLBrElementImpl.java
+END
+WMLSetvarElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLSetvarElementImpl.java
+END
+WMLUElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLUElementImpl.java
+END
+WMLTdElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLTdElementImpl.java
+END
+WMLOptionElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLOptionElementImpl.java
+END
+WMLSmallElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLSmallElementImpl.java
+END
+WMLAnchorElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLAnchorElementImpl.java
+END
+WMLNoopElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLNoopElementImpl.java
+END
+WMLPrevElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLPrevElementImpl.java
+END
+WMLOneventElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLOneventElementImpl.java
+END
+WMLElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLElementImpl.java
+END
+WMLTrElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLTrElementImpl.java
+END
+WMLPostfieldElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLPostfieldElementImpl.java
+END
+WMLInputElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLInputElementImpl.java
+END
+WMLBigElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLBigElementImpl.java
+END
+WMLEmElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLEmElementImpl.java
+END
+WMLHeadElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLHeadElementImpl.java
+END
+WMLDocumentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLDocumentImpl.java
+END
+WMLGoElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLGoElementImpl.java
+END
+WMLCardElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLCardElementImpl.java
+END
+WMLDOMImplementationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLDOMImplementationImpl.java
+END
+WMLTemplateElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLTemplateElementImpl.java
+END
+WMLStrongElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLStrongElementImpl.java
+END
+WMLImgElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLImgElementImpl.java
+END
+WMLOptgroupElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLOptgroupElementImpl.java
+END
+WMLSelectElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLSelectElementImpl.java
+END
+WMLTimerElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLTimerElementImpl.java
+END
+WMLAElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLAElementImpl.java
+END
+WMLBElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLBElementImpl.java
+END
+WMLMetaElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLMetaElementImpl.java
+END
+WMLTableElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLTableElementImpl.java
+END
+WMLIElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/dom/WMLIElementImpl.java
+END

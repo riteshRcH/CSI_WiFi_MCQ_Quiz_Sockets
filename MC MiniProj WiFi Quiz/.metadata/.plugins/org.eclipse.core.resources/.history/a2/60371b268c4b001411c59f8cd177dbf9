@@ -1,0 +1,71 @@
+package com.wifiMcqQuiz;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+
+import org.openexi.proc.common.AlignmentType;
+import org.openexi.proc.common.EXIOptionsException;
+import org.openexi.proc.common.GrammarOptions;
+import org.openexi.proc.grammars.GrammarCache;
+import org.openexi.sax.Transmogrifier;
+import org.openexi.sax.TransmogrifierException;
+import org.openexi.schema.EXISchema;
+
+import org.xml.sax.InputSource;
+
+import javax.swing.JOptionPane;
+
+// The Grammar Cache stores the XML schema and options used to encode an EXI file.
+
+// The Transmogrifier performs the translation from XML to EXI format.
+
+public class EncodeXMLToEXI
+{
+    public EncodeXMLToEXI()
+	{
+        super();
+    }
+
+// This example uses default options and no schema. Only the source and destination file names are required.
+    public static void encodeXMLToEXI(String sourceFile, String destinationFile)
+	{
+        FileInputStream in = null;
+        FileOutputStream out = null;
+        GrammarCache grammarCache;
+
+        try
+		{
+            Transmogrifier transmogrifier = new Transmogrifier();
+            transmogrifier.setAlignmentType(AlignmentType.compress);
+            
+            in = new FileInputStream(sourceFile);
+            out = new FileOutputStream(destinationFile);
+            
+            grammarCache = new GrammarCache((EXISchema)null, GrammarOptions.DEFAULT_OPTIONS);		//no XSL, auto-analyze it
+            transmogrifier.setGrammarCache(grammarCache);
+            transmogrifier.setOutputStream(out);
+            transmogrifier.encode(new InputSource(in));
+			
+			in.close();
+			out.close();
+        }catch(FileNotFoundException fnfe)
+		{
+			JOptionPane.showMessageDialog(null, "Cannot find the source file! Retry");
+		}catch(IOException ioe)
+		{
+		
+		}catch(TransmogrifierException tmExp)
+		{
+		
+		}catch(EXIOptionsException exiExcep)
+		{
+		
+		}
+    }
+	public static void main(String args[])throws Exception
+	{
+		encodeXMLToEXI("test.xml", "test.exi");
+	}
+}

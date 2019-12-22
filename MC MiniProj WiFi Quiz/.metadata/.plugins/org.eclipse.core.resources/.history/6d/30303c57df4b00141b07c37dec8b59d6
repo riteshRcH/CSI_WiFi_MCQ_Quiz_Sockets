@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom3/as
+END
+DOMImplementationAS.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom3/as/DOMImplementationAS.java
+END
+DOMASBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom3/as/DOMASBuilder.java
+END
+ASContentModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom3/as/ASContentModel.java
+END
+NodeEditAS.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom3/as/NodeEditAS.java
+END
+CharacterDataEditAS.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom3/as/CharacterDataEditAS.java
+END
+DOMASException.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom3/as/DOMASException.java
+END
+ASElementDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom3/as/ASElementDeclaration.java
+END
+ElementEditAS.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom3/as/ElementEditAS.java
+END
+ASModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom3/as/ASModel.java
+END
+ASNotationDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom3/as/ASNotationDeclaration.java
+END
+ASObjectList.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom3/as/ASObjectList.java
+END
+ASObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom3/as/ASObject.java
+END
+ASNamedObjectMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom3/as/ASNamedObjectMap.java
+END
+ASAttributeDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom3/as/ASAttributeDeclaration.java
+END
+ASDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom3/as/ASDataType.java
+END
+DOMASWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom3/as/DOMASWriter.java
+END
+DocumentAS.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom3/as/DocumentAS.java
+END
+ASEntityDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom3/as/ASEntityDeclaration.java
+END
+DocumentEditAS.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom3/as/DocumentEditAS.java
+END

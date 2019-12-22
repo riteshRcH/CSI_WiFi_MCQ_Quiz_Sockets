@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/identity
+END
+IdentityConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/identity/IdentityConstraint.java
+END
+FieldActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/identity/FieldActivator.java
+END
+UniqueOrKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/identity/UniqueOrKey.java
+END
+Selector.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/identity/Selector.java
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/identity/Field.java
+END
+KeyRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/identity/KeyRef.java
+END
+XPathMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/identity/XPathMatcher.java
+END
+ValueStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/identity/ValueStore.java
+END

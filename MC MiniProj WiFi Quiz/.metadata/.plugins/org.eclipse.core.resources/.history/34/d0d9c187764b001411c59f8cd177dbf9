@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.csiVesit.csiVesitExperience"
+    android:installLocation="preferExternal"
+    android:versionCode="8"
+    android:versionName="2.2" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+    
+    <supports-screens android:resizeable="true"
+                  android:smallScreens="true"
+                  android:normalScreens="true"
+                  android:largeScreens="true"
+                  android:anyDensity="true"/>
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:allowClearUserData="false"
+        android:description="@string/app_description"
+        android:icon="@drawable/csi_logo"
+        android:label="@string/app_name" >
+        <activity
+            android:name="com.wifiMcqQuiz"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.Transparent" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="org.csiVesit.csiVesitExperience.MainActivity"
+            android:theme="@style/customTitleTheme" >
+            <intent-filter>
+                <action android:name="org.csiVesit.csiVesitExperience.MainActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="org.csiVesit.csiVesitExperience.EventDispActivity"
+            android:label="@string/title_activity_event_disp"
+            android:theme="@style/customTitleTheme" >
+            <intent-filter>
+                <action android:name="org.csiVesit.csiVesitExperience.EventDisp" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="org.csiVesit.csiVesitExperience.SettingsActivity"
+            android:label="@string/title_activity_settings" >
+            <intent-filter>
+                <action android:name="org.csiVesit.csiVesitExperience.CSI_VESITAppSettings" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="org.csiVesit.csiVesitExperience.FotoGalleryActivity"
+            android:label="@string/title_activity_foto_gallery" >
+            <intent-filter>
+                <action android:name="org.csiVesit.csiVesitExperience.CSI_VESITAppFotoGallery" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="org.csiVesit.csiVesitExperience.CreditsActivity"
+            android:label="Credits"
+            android:theme="@style/customTitleTheme" >
+            <intent-filter>
+                <action android:name="org.csiVesit.csiVesitExperience.CSI_VESITAppCredits" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="org.csiVesit.csiVesitExperience.AboutCSIActivity"
+            android:label="@string/title_activity_about_csi"
+            android:theme="@style/customTitleTheme" >
+            <intent-filter>
+                <action android:name="org.csiVesit.csiVesitExperience.CSI_VESITAppAbtCSI" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="org.csiVesit.csiVesitExperience.EventRegActivity"
+            android:label="@string/title_activity_event_reg"
+            android:theme="@style/customTitleTheme" >
+            <intent-filter>
+                <action android:name="org.csiVesit.csiVesitExperience.EventReg" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="org.csiVesit.csiVesitExperience.ReadNParseRSSActivity"
+            android:theme="@style/customTitleTheme" >
+            <intent-filter>
+                <action android:name="org.csiVesit.csiVesitExperience.RSSFeedsDisplay" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- ******************************************************************************************************************************************** -->
+
+        <activity
+            android:name="com.wifiMcqQuiz.MainActivity"
+            android:label="@string/app_name"
+            android:noHistory="true"
+            android:theme="@style/customTitleTheme"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="org.csiVesit.wirelesselims.MainActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.wifiMcqQuiz.QuestionsActivity"
+            android:label="@string/title_activity_questions"
+            android:theme="@style/customTitleTheme" >
+            <intent-filter>
+                <action android:name="org.csiVesit.wirelesselims.WEQs" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.wifiMcqQuiz.InstrActivity"
+            android:label="@string/title_activity_instr"
+            android:theme="@style/customTitleTheme" >
+            <intent-filter>
+                <action android:name="org.csiVesit.wirelesselims.WEInstr" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.wifiMcqQuiz.SubmitResultActivity"
+            android:label="@string/title_activity_submit_result"
+            android:theme="@style/customTitleTheme" >
+            <intent-filter>
+                <action android:name="org.csiVesit.wirelesselims.WESubmitResults" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.wifiMcqQuiz.CreditsActivity"
+            android:label="@string/title_activity_credits"
+            android:theme="@style/customTitleTheme" >
+            <intent-filter>
+                <action android:name="org.csiVesit.wirelesselims.WECredits" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- ******************************************************************************************************************** -->
+
+        <activity
+            android:name="org.csiVesit.buzzer.MainActivity"
+            android:theme="@style/customTitleTheme"
+            android:noHistory="true" >
+            <intent-filter>
+                <action android:name="org.csiVesit.buzzer.MainActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="org.csiVesit.buzzer.InstrActivity"
+            android:theme="@style/customTitleTheme"
+            android:noHistory="true" >
+            <intent-filter>
+                <action android:name="org.csiVesit.buzzer.BuzzerInstr" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="org.csiVesit.buzzer.BuzzerActivity"
+            android:theme="@style/customTitleTheme" >
+            <intent-filter >
+                <action android:name="org.csiVesit.buzzer.Buzzer"/>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

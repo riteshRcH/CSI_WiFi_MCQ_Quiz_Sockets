@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom
+END
+Entity.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/Entity.java
+END
+NameList.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/NameList.java
+END
+ElementTraversal.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/ElementTraversal.java
+END
+ProcessingInstruction.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/ProcessingInstruction.java
+END
+Document.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/Document.java
+END
+DocumentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/DocumentType.java
+END
+NodeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/NodeList.java
+END
+DOMImplementationList.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/DOMImplementationList.java
+END
+Text.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/Text.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/Node.java
+END
+DOMImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/DOMImplementation.java
+END
+CharacterData.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/CharacterData.java
+END
+DOMErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/DOMErrorHandler.java
+END
+NamedNodeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/NamedNodeMap.java
+END
+DOMError.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/DOMError.java
+END
+Element.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/Element.java
+END
+EntityReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/EntityReference.java
+END
+Notation.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/Notation.java
+END
+TypeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/TypeInfo.java
+END
+DOMException.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/DOMException.java
+END
+CDATASection.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/CDATASection.java
+END
+DOMStringList.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/DOMStringList.java
+END
+Comment.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/Comment.java
+END
+DocumentFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/DocumentFragment.java
+END
+DOMLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/DOMLocator.java
+END
+DOMImplementationSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/DOMImplementationSource.java
+END
+UserDataHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/UserDataHandler.java
+END
+DOMConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/DOMConfiguration.java
+END
+Attr.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/Attr.java
+END

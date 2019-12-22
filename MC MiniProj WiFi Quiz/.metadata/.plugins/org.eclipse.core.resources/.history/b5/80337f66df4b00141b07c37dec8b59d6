@@ -1,0 +1,61 @@
+10
+
+dir
+2
+http://xerces-for-android.googlecode.com/svn/trunk/src/mf/org/apache/xerces
+http://xerces-for-android.googlecode.com/svn
+
+
+
+2013-01-21T21:30:34.171346Z
+2
+m@rtin.uy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1a9efa96-ad75-f0ee-bfc2-6aa9606e7c03
+
+xpointer
+dir
+
+xs
+dir
+
+xinclude
+dir
+
+util
+dir
+
+xni
+dir
+
+dom
+dir
+
+stax
+dir
+
+parsers
+dir
+
+impl
+dir
+
+dom3
+dir
+
+jaxp
+dir
+

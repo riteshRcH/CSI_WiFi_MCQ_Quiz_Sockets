@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/resolver/tools
+END
+ResolvingXMLReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/resolver/tools/ResolvingXMLReader.java
+END
+CatalogResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/resolver/tools/CatalogResolver.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/resolver/tools/package.html
+END
+ResolvingXMLFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/resolver/tools/ResolvingXMLFilter.java
+END
+ResolvingParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/resolver/tools/ResolvingParser.java
+END

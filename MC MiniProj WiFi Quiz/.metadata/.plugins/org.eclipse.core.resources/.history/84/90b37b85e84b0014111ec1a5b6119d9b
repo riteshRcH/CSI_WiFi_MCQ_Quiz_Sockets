@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream
+END
+XMLStreamException.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/XMLStreamException.java
+END
+FactoryFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/FactoryFinder.java
+END
+XMLEventWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/XMLEventWriter.java
+END
+XMLStreamReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/XMLStreamReader.java
+END
+StreamFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/StreamFilter.java
+END
+SecuritySupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/SecuritySupport.java
+END
+Location.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/Location.java
+END
+XMLInputFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/XMLInputFactory.java
+END
+XMLOutputFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/XMLOutputFactory.java
+END
+XMLStreamConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/XMLStreamConstants.java
+END
+FactoryConfigurationError.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/FactoryConfigurationError.java
+END
+XMLStreamWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/XMLStreamWriter.java
+END
+XMLResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/XMLResolver.java
+END
+XMLReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/XMLReporter.java
+END
+XMLEventReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/XMLEventReader.java
+END
+EventFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/EventFilter.java
+END
+XMLEventFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/XMLEventFactory.java
+END

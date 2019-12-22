@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/dtd
+END
+StringDatatypeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/dtd/StringDatatypeValidator.java
+END
+IDREFDatatypeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/dtd/IDREFDatatypeValidator.java
+END
+ListDatatypeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/dtd/ListDatatypeValidator.java
+END
+NMTOKENDatatypeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/dtd/NMTOKENDatatypeValidator.java
+END
+NOTATIONDatatypeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/dtd/NOTATIONDatatypeValidator.java
+END
+IDDatatypeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/dtd/IDDatatypeValidator.java
+END
+XML11IDREFDatatypeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/dtd/XML11IDREFDatatypeValidator.java
+END
+ENTITYDatatypeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/dtd/ENTITYDatatypeValidator.java
+END
+DTDDVFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/dtd/DTDDVFactoryImpl.java
+END
+XML11NMTOKENDatatypeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/dtd/XML11NMTOKENDatatypeValidator.java
+END
+XML11IDDatatypeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/dtd/XML11IDDatatypeValidator.java
+END
+XML11DTDDVFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/dtd/XML11DTDDVFactoryImpl.java
+END

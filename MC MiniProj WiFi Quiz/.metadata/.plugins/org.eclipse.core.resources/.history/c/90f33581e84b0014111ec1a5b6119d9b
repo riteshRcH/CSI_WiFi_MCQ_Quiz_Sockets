@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/css
+END
+RGBColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/css/RGBColor.java
+END
+CSSImportRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/css/CSSImportRule.java
+END
+CSSRuleList.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/css/CSSRuleList.java
+END
+CSSPageRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/css/CSSPageRule.java
+END
+CSSPrimitiveValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/css/CSSPrimitiveValue.java
+END
+Counter.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/css/Counter.java
+END
+CSSStyleDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/css/CSSStyleDeclaration.java
+END
+CSSRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/css/CSSRule.java
+END
+CSSMediaRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/css/CSSMediaRule.java
+END
+CSSValueList.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/css/CSSValueList.java
+END
+ElementCSSInlineStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/css/ElementCSSInlineStyle.java
+END
+ViewCSS.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/css/ViewCSS.java
+END
+CSSValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/css/CSSValue.java
+END
+CSSFontFaceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/css/CSSFontFaceRule.java
+END
+CSS2Properties.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/css/CSS2Properties.java
+END
+DocumentCSS.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/css/DocumentCSS.java
+END
+CSSCharsetRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/css/CSSCharsetRule.java
+END
+Rect.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/css/Rect.java
+END
+DOMImplementationCSS.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/css/DOMImplementationCSS.java
+END
+CSSUnknownRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/css/CSSUnknownRule.java
+END
+CSSStyleRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/css/CSSStyleRule.java
+END
+CSSStyleSheet.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/css/CSSStyleSheet.java
+END

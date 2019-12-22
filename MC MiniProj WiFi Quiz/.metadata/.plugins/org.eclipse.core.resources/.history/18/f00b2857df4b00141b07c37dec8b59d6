@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/Constants.java
+END
+RevalidationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/RevalidationHandler.java
+END
+XMLDocumentFragmentScannerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/XMLDocumentFragmentScannerImpl.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/Version.java
+END
+XMLDTDScannerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/XMLDTDScannerImpl.java
+END
+XMLEntityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/XMLEntityManager.java
+END
+XML11DTDScannerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/XML11DTDScannerImpl.java
+END
+ExternalSubsetResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/ExternalSubsetResolver.java
+END
+XMLDocumentScannerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/XMLDocumentScannerImpl.java
+END
+XMLEntityHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/XMLEntityHandler.java
+END
+XMLNSDocumentScannerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/XMLNSDocumentScannerImpl.java
+END
+XML11DocumentScannerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/XML11DocumentScannerImpl.java
+END
+XMLErrorReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/XMLErrorReporter.java
+END
+XML11NSDocumentScannerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/XML11NSDocumentScannerImpl.java
+END
+XMLVersionDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/XMLVersionDetector.java
+END
+XMLNamespaceBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/XMLNamespaceBinder.java
+END
+XMLEntityDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/XMLEntityDescription.java
+END
+XML11NamespaceBinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/XML11NamespaceBinder.java
+END
+XMLEntityScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/XMLEntityScanner.java
+END
+XML11EntityScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/XML11EntityScanner.java
+END
+XMLScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/XMLScanner.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni
+END
+XMLDTDHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/XMLDTDHandler.java
+END
+XMLResourceIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/XMLResourceIdentifier.java
+END
+XNIException.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/XNIException.java
+END
+XMLDocumentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/XMLDocumentHandler.java
+END
+Augmentations.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/Augmentations.java
+END
+NamespaceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/NamespaceContext.java
+END
+QName.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/QName.java
+END
+XMLDocumentFragmentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/XMLDocumentFragmentHandler.java
+END
+XMLLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/XMLLocator.java
+END
+XMLDTDContentModelHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/XMLDTDContentModelHandler.java
+END
+XMLAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/XMLAttributes.java
+END
+XMLString.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/XMLString.java
+END

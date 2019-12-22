@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs
+END
+XSNamespaceItemList.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSNamespaceItemList.java
+END
+XSAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSAnnotation.java
+END
+XSNamespaceItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSNamespaceItem.java
+END
+XSConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSConstants.java
+END
+XSModelGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSModelGroup.java
+END
+ElementPSVI.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/ElementPSVI.java
+END
+PSVIProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/PSVIProvider.java
+END
+XSFacet.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSFacet.java
+END
+XSComplexTypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSComplexTypeDefinition.java
+END
+XSImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSImplementation.java
+END
+XSModelGroupDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSModelGroupDefinition.java
+END
+XSAttributeGroupDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSAttributeGroupDefinition.java
+END
+XSMultiValueFacet.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSMultiValueFacet.java
+END
+AttributePSVI.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/AttributePSVI.java
+END
+XSException.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSException.java
+END
+XSElementDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSElementDeclaration.java
+END
+XSModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSModel.java
+END
+XSNotationDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSNotationDeclaration.java
+END
+XSParticle.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSParticle.java
+END
+XSSimpleTypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSSimpleTypeDefinition.java
+END
+XSTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSTerm.java
+END
+XSIDCDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSIDCDefinition.java
+END
+XSAttributeDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSAttributeDeclaration.java
+END
+XSValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSValue.java
+END
+LSInputList.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/LSInputList.java
+END
+XSAttributeUse.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSAttributeUse.java
+END
+ShortList.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/ShortList.java
+END
+XSNamedMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSNamedMap.java
+END
+ItemPSVI.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/ItemPSVI.java
+END
+StringList.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/StringList.java
+END
+XSWildcard.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSWildcard.java
+END
+XSTypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSTypeDefinition.java
+END
+XSObjectList.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSObjectList.java
+END
+XSLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSLoader.java
+END
+XSObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xs/XSObject.java
+END

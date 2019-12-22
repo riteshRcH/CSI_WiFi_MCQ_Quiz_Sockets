@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/ranges
+END
+DocumentRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/ranges/DocumentRange.java
+END
+RangeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/ranges/RangeException.java
+END
+Range.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/ranges/Range.java
+END

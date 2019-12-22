@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers
+END
+XMLGrammarCachingConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/XMLGrammarCachingConfiguration.java
+END
+XMLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/XMLParser.java
+END
+DOMParserImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/DOMParserImpl.java
+END
+XIncludeParserConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/XIncludeParserConfiguration.java
+END
+XML11Configurable.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/XML11Configurable.java
+END
+NonValidatingConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/NonValidatingConfiguration.java
+END
+XML11Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/XML11Configuration.java
+END
+DOMASBuilderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/DOMASBuilderImpl.java
+END
+DOMParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/DOMParser.java
+END
+DTDConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/DTDConfiguration.java
+END
+StandardParserConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/StandardParserConfiguration.java
+END
+XML11NonValidatingConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/XML11NonValidatingConfiguration.java
+END
+SAXParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/SAXParser.java
+END
+org.apache.xerces.xni.parser.DTDConfiguration
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/org.apache.xerces.xni.parser.DTDConfiguration
+END
+org.apache.xerces.xni.parser.XMLParserConfiguration
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/org.apache.xerces.xni.parser.XMLParserConfiguration
+END
+XMLDocumentParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/XMLDocumentParser.java
+END
+XPointerParserConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/XPointerParserConfiguration.java
+END
+AbstractDOMParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/AbstractDOMParser.java
+END
+SoftReferenceSymbolTableConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/SoftReferenceSymbolTableConfiguration.java
+END
+XMLGrammarParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/XMLGrammarParser.java
+END
+XML11DTDConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/XML11DTDConfiguration.java
+END
+BasicParserConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/BasicParserConfiguration.java
+END
+DTDParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/DTDParser.java
+END
+org.xml.sax.driver
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/org.xml.sax.driver
+END
+XMLGrammarPreparser.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/XMLGrammarPreparser.java
+END
+IntegratedParserConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/IntegratedParserConfiguration.java
+END
+AbstractSAXParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/AbstractSAXParser.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/ObjectFactory.java
+END
+SecurityConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/SecurityConfiguration.java
+END
+AbstractXMLDocumentParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/AbstractXMLDocumentParser.java
+END
+XIncludeAwareParserConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/XIncludeAwareParserConfiguration.java
+END
+org.apache.xerces.xni.parser.XML11Configuration
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/org.apache.xerces.xni.parser.XML11Configuration
+END
+CachingParserPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/CachingParserPool.java
+END
+SecuritySupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/parsers/SecuritySupport.java
+END

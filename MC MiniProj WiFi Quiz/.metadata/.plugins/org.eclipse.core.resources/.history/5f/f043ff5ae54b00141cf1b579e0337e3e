@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/validation
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/validation/package.html
+END
+SchemaFactoryLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/validation/SchemaFactoryLoader.java
+END
+Schema.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/validation/Schema.java
+END
+SchemaFactoryFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/validation/SchemaFactoryFinder.java
+END
+ValidatorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/validation/ValidatorHandler.java
+END
+SecuritySupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/validation/SecuritySupport.java
+END
+Validator.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/validation/Validator.java
+END
+SchemaFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/validation/SchemaFactory.java
+END
+TypeInfoProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/validation/TypeInfoProvider.java
+END

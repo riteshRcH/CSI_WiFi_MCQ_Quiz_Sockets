@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize
+END
+SerializerFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize/SerializerFactoryImpl.java
+END
+Printer.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize/Printer.java
+END
+BaseMarkupSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize/BaseMarkupSerializer.java
+END
+IndentPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize/IndentPrinter.java
+END
+XHTMLSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize/XHTMLSerializer.java
+END
+ElementState.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize/ElementState.java
+END
+XMLSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize/XMLSerializer.java
+END
+DOMSerializerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize/DOMSerializerImpl.java
+END
+XML11Serializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize/XML11Serializer.java
+END
+HTMLSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize/HTMLSerializer.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize/ObjectFactory.java
+END
+HTMLdtd.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize/HTMLdtd.java
+END
+SerializerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize/SerializerFactory.java
+END
+EncodingInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize/EncodingInfo.java
+END
+SecuritySupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize/SecuritySupport.java
+END
+LineSeparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize/LineSeparator.java
+END
+DOMSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize/DOMSerializer.java
+END
+Encodings.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize/Encodings.java
+END
+Serializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize/Serializer.java
+END
+OutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize/OutputFormat.java
+END
+TextSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize/TextSerializer.java
+END
+Method.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize/Method.java
+END
+HTMLEntities.res
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xml/serialize/HTMLEntities.res
+END

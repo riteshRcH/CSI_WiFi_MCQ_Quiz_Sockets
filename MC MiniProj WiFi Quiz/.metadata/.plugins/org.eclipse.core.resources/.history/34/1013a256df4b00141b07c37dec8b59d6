@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/io
+END
+UTF16Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/io/UTF16Reader.java
+END
+UTF8Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/io/UTF8Reader.java
+END
+Latin1Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/io/Latin1Reader.java
+END
+ASCIIReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/io/ASCIIReader.java
+END
+UCSReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/io/UCSReader.java
+END
+MalformedByteSequenceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/io/MalformedByteSequenceException.java
+END

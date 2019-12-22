@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/xpath
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/xpath/package.html
+END
+XPathConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/xpath/XPathConstants.java
+END
+XPathExpressionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/xpath/XPathExpressionException.java
+END
+XPathException.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/xpath/XPathException.java
+END
+XPathFactoryConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/xpath/XPathFactoryConfigurationException.java
+END
+XPathFactoryFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/xpath/XPathFactoryFinder.java
+END
+XPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/xpath/XPath.java
+END
+SecuritySupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/xpath/SecuritySupport.java
+END
+XPathExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/xpath/XPathExpression.java
+END
+XPathFunctionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/xpath/XPathFunctionException.java
+END
+XPathFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/xpath/XPathFunction.java
+END
+XPathFunctionResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/xpath/XPathFunctionResolver.java
+END
+XPathFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/xpath/XPathFactory.java
+END
+XPathVariableResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/xpath/XPathVariableResolver.java
+END

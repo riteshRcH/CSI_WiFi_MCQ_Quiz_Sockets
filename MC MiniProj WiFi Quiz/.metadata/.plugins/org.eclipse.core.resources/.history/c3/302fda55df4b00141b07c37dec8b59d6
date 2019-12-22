@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation
+END
+SimpleXMLSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/SimpleXMLSchema.java
+END
+SoftReferenceGrammarPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/SoftReferenceGrammarPool.java
+END
+XSGrammarPoolContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/XSGrammarPoolContainer.java
+END
+DOMResultAugmentor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/DOMResultAugmentor.java
+END
+EmptyXMLSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/EmptyXMLSchema.java
+END
+StAXStreamResultBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/StAXStreamResultBuilder.java
+END
+StreamValidatorHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/StreamValidatorHelper.java
+END
+ValidatorHandlerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/ValidatorHandlerImpl.java
+END
+AbstractXMLSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/AbstractXMLSchema.java
+END
+XMLSchemaValidatorComponentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/XMLSchemaValidatorComponentManager.java
+END
+JAXPValidationMessageFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/JAXPValidationMessageFormatter.java
+END
+DraconianErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/DraconianErrorHandler.java
+END
+ValidatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/ValidatorImpl.java
+END
+WeakReferenceXMLSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/WeakReferenceXMLSchema.java
+END
+javax.xml.validation.SchemaFactory
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/javax.xml.validation.SchemaFactory
+END
+XMLSchemaFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/XMLSchemaFactory.java
+END
+StAXDocumentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/StAXDocumentHandler.java
+END
+DOMDocumentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/DOMDocumentHandler.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/Util.java
+END
+ReadOnlyGrammarPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/ReadOnlyGrammarPool.java
+END
+XMLSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/XMLSchema.java
+END
+ValidatorHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/ValidatorHelper.java
+END
+DOMResultBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/DOMResultBuilder.java
+END
+StAXValidatorHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/StAXValidatorHelper.java
+END
+DOMValidatorHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/DOMValidatorHelper.java
+END
+StAXEventResultBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/jaxp/validation/StAXEventResultBuilder.java
+END

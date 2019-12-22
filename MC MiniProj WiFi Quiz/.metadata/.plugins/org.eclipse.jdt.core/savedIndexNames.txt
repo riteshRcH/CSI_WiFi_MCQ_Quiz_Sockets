@@ -1,0 +1,27 @@
+INDEX VERSION 1.127+F:\VESIT\BE\BE Final Year\Mobile Computing (MC)\MC MiniProj WiFi Quiz\.metadata\.plugins\org.eclipse.jdt.core
+3656041011.index
+251782801.index
+4202074792.index
+265732991.index
+2804169155.index
+3291070697.index
+684260873.index
+3210787284.index
+1811389807.index
+174553.index
+4039342660.index
+3491804422.index
+2959774643.index
+105210318.index
+1369976122.index
+4134526084.index
+3158849313.index
+2620426498.index
+3038630371.index
+1926144101.index
+3051433898.index
+2248287622.index
+2634579158.index
+1667022092.index
+1198961354.index
+1137531459.index

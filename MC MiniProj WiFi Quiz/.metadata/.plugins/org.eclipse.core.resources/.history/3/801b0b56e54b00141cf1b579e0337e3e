@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/xpath
+END
+XPathNamespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/xpath/XPathNamespace.java
+END
+XPathResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/xpath/XPathResult.java
+END
+XPathException.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/xpath/XPathException.java
+END
+XPathExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/xpath/XPathExpression.java
+END
+XPathEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/xpath/XPathEvaluator.java
+END
+XPathNSResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/xpath/XPathNSResolver.java
+END

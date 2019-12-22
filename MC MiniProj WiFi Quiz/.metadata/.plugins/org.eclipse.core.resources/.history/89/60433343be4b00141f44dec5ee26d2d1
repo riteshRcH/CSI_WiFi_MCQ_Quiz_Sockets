@@ -1,0 +1,83 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ScrollViewActivityMain"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:id="@+id/LinearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context=".MainActivity" >
+        
+        <EditText
+            android:id="@+id/editTextServerIP"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:digits="0123456789."
+            android:hint="Enter Server IP address .."
+            android:inputType="phone" />
+
+        <Button
+            android:id="@+id/btnEstablishConn"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+			android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginRight="10dp"
+            android:text="Establish Connection to Server!" />
+        
+        <View android:layout_width="fill_parent"
+    	android:layout_height="4dp"
+    	android:background="@android:color/white"
+    	android:layout_marginTop="10dp"
+	    android:layout_marginBottom="10dp" />
+
+        <EditText
+            android:id="@+id/EditTextTeamName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+			android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:hint="Enter your team name .."
+            android:inputType="text" />
+
+        <EditText
+            android:id="@+id/editTextPW"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:ems="10"
+            android:hint="Enter password .."
+            android:inputType="textPassword" />
+
+        <Button
+            android:id="@+id/btnRegTeam"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginRight="10dp"
+            android:enabled="false"
+            android:text="Register Team Name with Server!" />
+        
+        <Button
+            android:id="@+id/btnStart"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginRight="10dp"
+            android:enabled="false"
+            android:text="Next" />
+    </LinearLayout>
+
+</ScrollView>

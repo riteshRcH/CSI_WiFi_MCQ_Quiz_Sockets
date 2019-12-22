@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/grammars
+END
+XMLSchemaDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/grammars/XMLSchemaDescription.java
+END
+Grammar.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/grammars/Grammar.java
+END
+XMLGrammarDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/grammars/XMLGrammarDescription.java
+END
+XMLGrammarLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/grammars/XMLGrammarLoader.java
+END
+XMLDTDDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/grammars/XMLDTDDescription.java
+END
+XSGrammar.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/grammars/XSGrammar.java
+END
+XMLGrammarPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xni/grammars/XMLGrammarPool.java
+END

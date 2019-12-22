@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dtd
+END
+XMLDTDValidatorFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dtd/XMLDTDValidatorFilter.java
+END
+XMLSimpleType.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dtd/XMLSimpleType.java
+END
+XMLAttributeDecl.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dtd/XMLAttributeDecl.java
+END
+DTDGrammarBucket.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dtd/DTDGrammarBucket.java
+END
+DTDGrammar.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dtd/DTDGrammar.java
+END
+XMLDTDLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dtd/XMLDTDLoader.java
+END
+XMLEntityDecl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dtd/XMLEntityDecl.java
+END
+XMLDTDProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dtd/XMLDTDProcessor.java
+END
+BalancedDTDGrammar.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dtd/BalancedDTDGrammar.java
+END
+XML11DTDProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dtd/XML11DTDProcessor.java
+END
+XMLDTDDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dtd/XMLDTDDescription.java
+END
+XMLElementDecl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dtd/XMLElementDecl.java
+END
+XMLDTDValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dtd/XMLDTDValidator.java
+END
+XMLNSDTDValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dtd/XMLNSDTDValidator.java
+END
+XML11DTDValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dtd/XML11DTDValidator.java
+END
+XMLNotationDecl.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dtd/XMLNotationDecl.java
+END
+XML11NSDTDValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dtd/XML11NSDTDValidator.java
+END
+XMLContentSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dtd/XMLContentSpec.java
+END

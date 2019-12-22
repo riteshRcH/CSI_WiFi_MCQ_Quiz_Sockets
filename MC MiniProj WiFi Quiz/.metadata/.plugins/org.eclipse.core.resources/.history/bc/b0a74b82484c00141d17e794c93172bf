@@ -1,0 +1,49 @@
+package com.wifiMcqQuiz;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.security.Key;
+
+import javax.crypto.Cipher;
+import javax.crypto.spec.SecretKeySpec;
+
+public class AESEncryptBase64JSON
+{
+	public static void aesEncryptBase64JSON(String sourceFile, String destinationFile)
+	{
+		try
+		{
+			String jsonString = new String(""), s = "";
+			
+			BufferedReader br = new BufferedReader(new FileReader(sourceFile));
+			while((s = br.readLine())!=null)
+				jsonString += (s + System.getProperty("line.separator"));
+			br.close();
+			
+			String key = "c00perH@wkRch123"; // 128 bit key
+
+	         // Create key and cipher
+	         Key aesKey = new SecretKeySpec(key.getBytes(), "AES");
+	         Cipher cipher = Cipher.getInstance("AES");
+	
+	         // encrypt the text
+	         cipher.init(Cipher.ENCRYPT_MODE, aesKey);
+	         byte[] encrypted = cipher.doFinal(jsonString.getBytes("UTF8"));
+	         System.err.println(new String(encrypted));
+	
+	         // decrypt the text
+	         cipher.init(Cipher.DECRYPT_MODE, aesKey);
+	         String decrypted = new String(cipher.doFinal(encrypted));
+	         System.err.println(decrypted);
+	         
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+			}	
+	}
+	public static void main(String args[])
+	{
+		aesEncryptBase64JSON("C:\\Users\\c00per\\Desktop\\Test\\TestJSON\\QuestionsQsJSON.json", "C:\\Users\\c00per\\Desktop\\Test\\TestJSON\\QuestionsQsJSONEncrypted.");
+	}
+}

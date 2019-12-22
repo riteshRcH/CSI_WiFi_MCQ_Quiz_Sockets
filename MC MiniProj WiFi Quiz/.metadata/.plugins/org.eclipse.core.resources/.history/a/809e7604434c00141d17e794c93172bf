@@ -1,0 +1,27 @@
+package com.wifiMcqQuiz;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+
+import org.json.JSONObject;
+
+class LoadQsJSON
+{
+	class Question
+	{
+		String question, option1, option2, option3, option4, correctAns;
+	}
+	static ArrayList<Question> qsList = new ArrayList<Question>();
+	
+	void parseJSON(File jsonFileName)throws Exception
+	{
+		String jsonString = new String(""), s = "";
+		BufferedReader br = new BufferedReader(new FileReader(jsonFileName));
+		while((s = br.readLine())!=null)
+			jsonString += (s + System.getProperty("line.separator"));
+		JSONObject jsonObj = new JSONObject("");
+	}
+}

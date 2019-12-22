@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml
+END
+WMLRefreshElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLRefreshElement.java
+END
+WMLFieldsetElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLFieldsetElement.java
+END
+WMLWmlElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLWmlElement.java
+END
+WMLPElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLPElement.java
+END
+WMLAccessElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLAccessElement.java
+END
+WMLDoElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLDoElement.java
+END
+WMLBrElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLBrElement.java
+END
+WMLUElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLUElement.java
+END
+WMLSetvarElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLSetvarElement.java
+END
+WMLTdElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLTdElement.java
+END
+WMLSmallElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLSmallElement.java
+END
+WMLOptionElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLOptionElement.java
+END
+WMLAnchorElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLAnchorElement.java
+END
+WMLNoopElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLNoopElement.java
+END
+WMLPrevElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLPrevElement.java
+END
+WMLOneventElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLOneventElement.java
+END
+WMLElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLElement.java
+END
+WMLTrElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLTrElement.java
+END
+WMLPostfieldElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLPostfieldElement.java
+END
+WMLInputElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLInputElement.java
+END
+WMLHeadElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLHeadElement.java
+END
+WMLEmElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLEmElement.java
+END
+WMLBigElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLBigElement.java
+END
+WMLDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLDocument.java
+END
+WMLGoElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLGoElement.java
+END
+WMLCardElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLCardElement.java
+END
+WMLTemplateElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLTemplateElement.java
+END
+WMLDOMImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLDOMImplementation.java
+END
+WMLStrongElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLStrongElement.java
+END
+WMLImgElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLImgElement.java
+END
+WMLSelectElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLSelectElement.java
+END
+WMLOptgroupElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLOptgroupElement.java
+END
+WMLTimerElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLTimerElement.java
+END
+WMLAElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLAElement.java
+END
+WMLBElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLBElement.java
+END
+WMLMetaElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLMetaElement.java
+END
+WMLTableElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLTableElement.java
+END
+WMLIElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/mf/org/apache/wml/WMLIElement.java
+END

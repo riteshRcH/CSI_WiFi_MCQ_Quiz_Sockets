@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xinclude
+END
+XIncludeMessageFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xinclude/XIncludeMessageFormatter.java
+END
+SecuritySupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xinclude/SecuritySupport.java
+END
+XInclude11TextReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xinclude/XInclude11TextReader.java
+END
+XIncludeNamespaceSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xinclude/XIncludeNamespaceSupport.java
+END
+XIncludeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xinclude/XIncludeHandler.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xinclude/ObjectFactory.java
+END
+MultipleScopeNamespaceSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xinclude/MultipleScopeNamespaceSupport.java
+END
+XIncludeTextReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/xinclude/XIncludeTextReader.java
+END

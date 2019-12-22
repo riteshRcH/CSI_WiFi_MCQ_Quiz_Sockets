@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv
+END
+ValidatedInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/ValidatedInfo.java
+END
+DatatypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/DatatypeException.java
+END
+DTDDVFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/DTDDVFactory.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/ObjectFactory.java
+END
+InvalidDatatypeValueException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/InvalidDatatypeValueException.java
+END
+ValidationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/ValidationContext.java
+END
+XSFacets.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/XSFacets.java
+END
+DVFactoryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/DVFactoryException.java
+END
+DatatypeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/DatatypeValidator.java
+END
+SchemaDVFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/SchemaDVFactory.java
+END
+SecuritySupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/SecuritySupport.java
+END
+InvalidDatatypeFacetException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/InvalidDatatypeFacetException.java
+END
+XSSimpleType.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/dv/XSSimpleType.java
+END

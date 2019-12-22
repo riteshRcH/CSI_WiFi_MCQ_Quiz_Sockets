@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/transform
+END
+TransformerConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/transform/TransformerConfigurationException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/transform/package.html
+END
+Result.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/transform/Result.java
+END
+TransformerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/transform/TransformerException.java
+END
+URIResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/transform/URIResolver.java
+END
+SourceLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/transform/SourceLocator.java
+END
+overview.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/transform/overview.html
+END
+TransformerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/transform/TransformerFactory.java
+END
+TransformerFactoryConfigurationError.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/transform/TransformerFactoryConfigurationError.java
+END
+OutputKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/transform/OutputKeys.java
+END
+Templates.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/transform/Templates.java
+END
+ErrorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/transform/ErrorListener.java
+END
+FactoryFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/transform/FactoryFinder.java
+END
+Source.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/transform/Source.java
+END
+Transformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/transform/Transformer.java
+END
+SecuritySupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/transform/SecuritySupport.java
+END

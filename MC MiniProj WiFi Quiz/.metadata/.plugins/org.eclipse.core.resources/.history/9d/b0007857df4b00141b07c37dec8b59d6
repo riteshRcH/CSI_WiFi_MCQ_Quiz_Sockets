@@ -1,0 +1,413 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom
+END
+RangeExceptionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/RangeExceptionImpl.java
+END
+EntityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/EntityImpl.java
+END
+DeferredAttrNSImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DeferredAttrNSImpl.java
+END
+ProcessingInstructionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/ProcessingInstructionImpl.java
+END
+DeferredDocumentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DeferredDocumentImpl.java
+END
+AttributeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/AttributeMap.java
+END
+DocumentTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DocumentTypeImpl.java
+END
+SecuritySupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/SecuritySupport.java
+END
+NodeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/NodeImpl.java
+END
+CharacterDataImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/CharacterDataImpl.java
+END
+ElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/ElementImpl.java
+END
+DeferredElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DeferredElementImpl.java
+END
+DeferredElementNSImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DeferredElementNSImpl.java
+END
+PSVIElementNSImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/PSVIElementNSImpl.java
+END
+CoreDOMImplementationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/CoreDOMImplementationImpl.java
+END
+DOMOutputImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DOMOutputImpl.java
+END
+DOMStringListImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DOMStringListImpl.java
+END
+CommentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/CommentImpl.java
+END
+DeferredElementDefinitionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DeferredElementDefinitionImpl.java
+END
+DeferredCommentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DeferredCommentImpl.java
+END
+TreeWalkerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/TreeWalkerImpl.java
+END
+DOMImplementationSourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DOMImplementationSourceImpl.java
+END
+ChildNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/ChildNode.java
+END
+ASDOMImplementationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/ASDOMImplementationImpl.java
+END
+AttrImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/AttrImpl.java
+END
+AttrNSImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/AttrNSImpl.java
+END
+PSVIAttrNSImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/PSVIAttrNSImpl.java
+END
+DeferredDocumentTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DeferredDocumentTypeImpl.java
+END
+LCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/LCount.java
+END
+DOMImplementationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DOMImplementationImpl.java
+END
+CoreDocumentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/CoreDocumentImpl.java
+END
+NamedNodeMapImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/NamedNodeMapImpl.java
+END
+NotationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/NotationImpl.java
+END
+EntityReferenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/EntityReferenceImpl.java
+END
+DeferredEntityReferenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DeferredEntityReferenceImpl.java
+END
+org.apache.xerces.dom.DOMImplementationSourceImpl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/org.apache.xerces.dom.DOMImplementationSourceImpl
+END
+DOMLocatorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DOMLocatorImpl.java
+END
+DeferredNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DeferredNode.java
+END
+DeferredAttrImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DeferredAttrImpl.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/ObjectFactory.java
+END
+ParentNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/ParentNode.java
+END
+DeferredProcessingInstructionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DeferredProcessingInstructionImpl.java
+END
+TextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/TextImpl.java
+END
+ElementNSImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/ElementNSImpl.java
+END
+DeferredNotationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DeferredNotationImpl.java
+END
+NodeIteratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/NodeIteratorImpl.java
+END
+DOMNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DOMNormalizer.java
+END
+CDATASectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/CDATASectionImpl.java
+END
+DocumentFragmentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DocumentFragmentImpl.java
+END
+ElementDefinitionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/ElementDefinitionImpl.java
+END
+DeferredEntityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DeferredEntityImpl.java
+END
+DocumentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DocumentImpl.java
+END
+DeepNodeListImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DeepNodeListImpl.java
+END
+PSVIDocumentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/PSVIDocumentImpl.java
+END
+DOMImplementationListImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DOMImplementationListImpl.java
+END
+DOMXSImplementationSourceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DOMXSImplementationSourceImpl.java
+END
+NodeListCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/NodeListCache.java
+END
+ASModelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/ASModelImpl.java
+END
+DeferredTextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DeferredTextImpl.java
+END
+DeferredDOMImplementationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DeferredDOMImplementationImpl.java
+END
+DOMMessageFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DOMMessageFormatter.java
+END
+PSVIDOMImplementationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/PSVIDOMImplementationImpl.java
+END
+DOMErrorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DOMErrorImpl.java
+END
+RangeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/RangeImpl.java
+END
+org.w3c.dom.DOMImplementationSourceList
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/org.w3c.dom.DOMImplementationSourceList
+END
+DOMInputImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DOMInputImpl.java
+END
+DeferredCDATASectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DeferredCDATASectionImpl.java
+END
+DOMConfigurationImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/dom/DOMConfigurationImpl.java
+END

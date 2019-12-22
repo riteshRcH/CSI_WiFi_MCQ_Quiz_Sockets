@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util
+END
+JAXPNamespaceContextWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/JAXPNamespaceContextWrapper.java
+END
+SoftReferenceSymbolTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/SoftReferenceSymbolTable.java
+END
+XMLAttributesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/XMLAttributesImpl.java
+END
+NamespaceSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/NamespaceSupport.java
+END
+SAXInputSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/SAXInputSource.java
+END
+XMLChar.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/XMLChar.java
+END
+URI.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/URI.java
+END
+XML11Char.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/XML11Char.java
+END
+AugmentationsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/AugmentationsImpl.java
+END
+DatatypeMessageFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/DatatypeMessageFormatter.java
+END
+XMLErrorCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/XMLErrorCode.java
+END
+MessageFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/MessageFormatter.java
+END
+XMLSymbols.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/XMLSymbols.java
+END
+StAXLocationWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/StAXLocationWrapper.java
+END
+SymbolHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/SymbolHash.java
+END
+StAXInputSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/StAXInputSource.java
+END
+IntStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/IntStack.java
+END
+SAXMessageFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/SAXMessageFormatter.java
+END
+XMLLocatorWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/XMLLocatorWrapper.java
+END
+AttributesProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/AttributesProxy.java
+END
+ErrorHandlerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/ErrorHandlerWrapper.java
+END
+DOMErrorHandlerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/DOMErrorHandlerWrapper.java
+END
+ErrorHandlerProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/ErrorHandlerProxy.java
+END
+ShadowedSymbolTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/ShadowedSymbolTable.java
+END
+DefaultErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/DefaultErrorHandler.java
+END
+XMLResourceIdentifierImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/XMLResourceIdentifierImpl.java
+END
+DOMEntityResolverWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/DOMEntityResolverWrapper.java
+END
+EntityResolverWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/EntityResolverWrapper.java
+END
+SecurityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/SecurityManager.java
+END
+ParserConfigurationSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/ParserConfigurationSettings.java
+END
+LocatorProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/LocatorProxy.java
+END
+SynchronizedSymbolTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/SynchronizedSymbolTable.java
+END
+SymbolTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/SymbolTable.java
+END
+DOMUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/DOMUtil.java
+END
+XMLCatalogResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/XMLCatalogResolver.java
+END
+HTTPInputSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/HTTPInputSource.java
+END
+SAXLocatorWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/SAXLocatorWrapper.java
+END
+DOMInputSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/DOMInputSource.java
+END
+EntityResolver2Wrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/EntityResolver2Wrapper.java
+END
+XMLStringBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/XMLStringBuffer.java
+END
+XMLGrammarPoolImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/XMLGrammarPoolImpl.java
+END
+XMLEntityDescriptionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/XMLEntityDescriptionImpl.java
+END
+EncodingMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/util/EncodingMap.java
+END

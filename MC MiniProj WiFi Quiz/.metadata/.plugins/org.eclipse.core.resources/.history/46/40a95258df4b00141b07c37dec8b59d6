@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/events
+END
+EndDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/events/EndDocument.java
+END
+StartElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/events/StartElement.java
+END
+EntityReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/events/EntityReference.java
+END
+DTD.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/events/DTD.java
+END
+Namespace.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/events/Namespace.java
+END
+StartDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/events/StartDocument.java
+END
+ProcessingInstruction.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/events/ProcessingInstruction.java
+END
+Characters.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/events/Characters.java
+END
+EndElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/events/EndElement.java
+END
+NotationDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/events/NotationDeclaration.java
+END
+Comment.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/events/Comment.java
+END
+EntityDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/events/EntityDeclaration.java
+END
+XMLEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/events/XMLEvent.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/mf/javax/xml/stream/events/Attribute.java
+END

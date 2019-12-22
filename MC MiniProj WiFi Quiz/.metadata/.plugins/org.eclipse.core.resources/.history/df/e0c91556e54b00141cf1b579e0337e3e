@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/traversal
+END
+DocumentTraversal.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/traversal/DocumentTraversal.java
+END
+TreeWalker.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/traversal/TreeWalker.java
+END
+NodeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/traversal/NodeFilter.java
+END
+NodeIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/mf/org/w3c/dom/traversal/NodeIterator.java
+END

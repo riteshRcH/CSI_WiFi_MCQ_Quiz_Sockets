@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/models
+END
+XSCMRepeatingLeaf.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/models/XSCMRepeatingLeaf.java
+END
+XSCMBinOp.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/models/XSCMBinOp.java
+END
+XSCMLeaf.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/models/XSCMLeaf.java
+END
+XSAllCM.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/models/XSAllCM.java
+END
+XSDFACM.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/models/XSDFACM.java
+END
+XSCMUniOp.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/models/XSCMUniOp.java
+END
+CMBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/models/CMBuilder.java
+END
+XSEmptyCM.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/models/XSEmptyCM.java
+END
+CMNodeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/models/CMNodeFactory.java
+END
+XSCMValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/src/mf/org/apache/xerces/impl/xs/models/XSCMValidator.java
+END
